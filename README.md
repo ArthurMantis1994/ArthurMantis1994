@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm here ☕
 
-<!--
-**ArthurMantis1994/ArthurMantis1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **ArthurMantis1994**, a game developer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐛 Bug hunter by night
+- 💬 Ask me anything about code
+- 📚 Reading the source is the best documentation
+- 🎯 Goal: ship something useful every week
+- 🚀 Performance matters
+
+## Tech
+
+`Rust` `Axum` `tmux`
+
+---
+
+_Sometimes i write tests._
